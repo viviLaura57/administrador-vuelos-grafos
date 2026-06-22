@@ -1,0 +1,14 @@
+# Compilados de Java
+*.class
+
+# Logs
+*.log
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Carpetas y archivos de IDE
+.idea/
+.vscode/
+*.iml
