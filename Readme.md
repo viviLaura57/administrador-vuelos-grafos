@@ -203,6 +203,6 @@ EZE
 
 ## 👤 Autor
 
-- *Bermudez Torrico Viviana Laur*
+- *Bermudez Torrico Viviana Laura*
 
 Materia: **Teoría de Grafos** — Universidad Mayor de San Simón (UMSS), Cochabamba, Bolivia.
